@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = 'https://github.com/hydricmedia/SoundcloudSDK'
   s.authors      = {
     'Kevin Delannoy' => 'delannoyk@gmail.com',
-    'Benjamin Chrobot' => 'benjamin.blair.chrobot@gmail.com'
+    'Benjamin Chrobot' => 'benjamin.blair.chrobot@gmail.com',
     'Kseniya Williams' => 'kseniya@hydricmedia.com'
   }
   s.summary      = 'SoundcloudSDK is a framework written in Swift over Soundcloud API.'
