@@ -12,7 +12,8 @@ Pod::Spec.new do |s|
 
 # Source Info
   s.source       =  {
-    :git => 'https://github.com/hydricmedia/SoundcloudSDK'
+    :git => 'https://github.com/hydricmedia/SoundcloudSDK.git',
+    :tag => s.version.to_s
   }
   s.source_files = 'sources/SoundcloudSDK/**/*.swift'
 
